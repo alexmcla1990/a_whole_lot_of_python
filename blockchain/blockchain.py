@@ -15,6 +15,7 @@ class Block:
         return sha256(block_string.encode()).hexdigest()
 
 class Blockchain: 
+    difficulty = 2
     def __init__(self):
         self.unconfirmed_transactions = []
         self.chain = []
@@ -28,9 +29,9 @@ class Blockchain:
     def last_block(self):
         return self.chain[-1]
 
-    difficulty = 2
+    
     def proof_of_work(self, block):
-        block.nonce = []
+        block.nonce = 0
         computed_hash = block.compute_hash()
         while not computed_hash.startswith('0' * Blockchain.difficulty):
             block.nonce += 1
