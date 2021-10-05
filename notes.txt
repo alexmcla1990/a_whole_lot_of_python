@@ -1,0 +1,8 @@
+#transfer number value into character value, every char has assigned number
+#caesar cipher c=(x+n % 26)
+#ascii code
+#ord method to convert a charcter to its numeric representation in unicode
+#Just like how we could convert a character into its numeric Unicode using ord() method, we do the inverse i.e., 
+find the character represented by a number using chr() method.
+The chr() method accepts a number representing the Unicode of a character and returns the actual character 
+corresponding to the numeric code.
