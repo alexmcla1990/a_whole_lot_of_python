@@ -1,0 +1,19 @@
+XGboost parameters
+over fit/under fit
+
+max_depth: how many levels the model is allowed to grow. 2-30ish
+if you increase maximum depth you may overfit the model
+subsample: 0-1 = 100% of data
+colsample by level: 0-1 for every level, percentage of data (.5 = 50% of data)
+colsample by tree: 0-1 for every tree, percentage of data 
+
+SS, CBL, CBT : regularization
+
+min child weight: 1, 5, 100, regularizes with increase
+lambda: when increase, regularization
+alpha: when increase, regularization
+
+n estimator: number of trees, boosting eachother, default value is 100, increase will effect training speed 
+learning rate: percentage of residual and add it back to boosting tree, if you increase learning rate too heavily will not give you proper results. keep learning rate small. 
+.01 - .5 or .8 if you're crazy, can go beyond 1 if you are a wild person 
+
