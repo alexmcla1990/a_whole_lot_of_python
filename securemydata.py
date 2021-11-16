@@ -1,3 +1,8 @@
+import hashlib
+
+h = hashlib.md5()
+f = open("secretinformation.txt", "w")
+
 def encode (data, shift):
     encoded = ""
 
@@ -34,10 +39,11 @@ def decode (data, shift):
 
 menu = ""
 while menu != '1' or menu != '2':
-    menu = input("Would you like to save a new passord or view your old ones?"
+    menu = input("Would you like to save a new passw1ord or view your old ones?"
                     "\n 1. Input new patient."
                     "\n 2. View existing patient information."
-                    "\n 3. Exit Program."
+                    "\n 3. Prepare File."
+                    "\n 4. Exit Program."
                     )
     if menu == "1":
         patientName = input("Enter name of patient:")
@@ -56,4 +62,12 @@ while menu != '1' or menu != '2':
             print(decode(data[0],shift)+"\t\t"+decode(data[1], shift)+"\t\t"+decode(data[2], shift))
 
     if menu == "3":
+        with open('secretinformation.txt', 'rb') as afile:
+            buf = afile.read()
+            h.update(buf)
+            print(h.hexdigest(), file=f)
+            f.close()
+           
+
+    if menu == "4":
         exit()
