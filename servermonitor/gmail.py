@@ -1,7 +1,7 @@
 import smtplib
 from email.message import EmailMessage
 
-# Add your email and app password for this to work.
+# Add email and password
 
 def email_alert(subject, body, to):
 
@@ -9,10 +9,10 @@ def email_alert(subject, body, to):
     msg.set_content(body)
 
     # UPDATE THESE LINES TO YOUR INFO
-    gmail_user = 'YourEmail@gmail.com'
-    gmail_password = 'get_app_password'
+    gmail_user = 'email@gmail.com'
+    gmail_password = 'password'
     msg['Subject'] = subject
-    msg['From'] = "YourEmail@gmail.com"
+    msg['From'] = "emaill@gmail.com"
     msg['To'] = to
 
 
@@ -25,4 +25,4 @@ def email_alert(subject, body, to):
     s.quit()
 
 if __name__ == '__main__':
-    email_alert("Test","https://discord.gg/cAWW5qq","3095824273@vtext.com")
+    email_alert("asdf","asdf","soandsoandso@whatever.com")
