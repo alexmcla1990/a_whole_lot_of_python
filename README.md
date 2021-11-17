@@ -15,7 +15,7 @@ Some included features:
 
 1. a master loop. 
 2. create a class with an object and then use that object.
-3. create a dictoinary/list, populate it and then retrieve it. 
+3. create a dictionary/list, populate it and then retrieve it. 
 4. read data from an external file and then use it. 
 5. build a conversion tool that converts user input to another type. 
 
