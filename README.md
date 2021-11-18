@@ -2,6 +2,8 @@ PROJECT FOR CODE LOUISVILLE
 
 SECUREMYDATA.PY
 
+You'll need python 3 for this one. 
+
 Instructions: 
 
 1. run securemydata.py. 
