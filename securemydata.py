@@ -1,7 +1,11 @@
 import hashlib
+import uuid
+
 
 h = hashlib.md5()
-f = open("newpassword.txt", "w")
+f = open(str(uuid.uuid4()) + ".txt", "w")
+
+
 
 def encode (data, shift):
     encoded = ""
@@ -43,7 +47,7 @@ while menu != '1' or menu != '2':
                     "\n 1. Input new patient."
                     "\n 2. View existing patient information."
                     "\n 3. Generate Password."
-                    "\n 4. Exit Program."
+                    "\n 4. Save Passwords and Exit Program."
                     )
     if menu == "1":
         patientName = input("Enter name of patient:")
@@ -66,8 +70,10 @@ while menu != '1' or menu != '2':
             buf = afile.read()
             h.update(buf)
             print(h.hexdigest(), file=f)
-            f.close()
+            print('Hash Generated')
            
+
+        
 
     if menu == "4":
         exit()
