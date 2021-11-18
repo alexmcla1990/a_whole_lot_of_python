@@ -3,7 +3,7 @@ import uuid
 
 
 h = hashlib.md5()
-f = open(str(uuid.uuid4()) + ".txt", "w")
+
 
 
 
@@ -67,6 +67,7 @@ while menu != '1' or menu != '2':
 
     if menu == "3":
         with open('secretinformation.txt', 'rb') as afile:
+            f = open(str(uuid.uuid4()) + ".txt", "w")
             buf = afile.read()
             h.update(buf)
             print(h.hexdigest(), file=f)
