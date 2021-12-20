@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/V7F//PUplJR273ACjPG6KS4UzRaaYmm3I9G+kE041SzI2H8e7sHNru88Bu9czPXqlLWzq1IZ7e7m48DEvhgsA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Charles\\Desktop\\PHP\\04\\demos\\after\\EmployeeManager.Wpf\\EmployeeManager.Wpf.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Charles\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

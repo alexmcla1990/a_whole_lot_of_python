@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "3eY8ME8/T+aNoufn8m+IdjtrXzAbA58d3lmjO5oGo5WiX7B27Y5rzCbMXXKRJcZGGtZNLbIg19yzyd4NEN/eyA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Charles\\Desktop\\PHP\\04\\demos\\after\\EmployeeManager.WinUI\\EmployeeManager.WinUI (Package)\\EmployeeManager.WinUI (Package).wapproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Charles\\.nuget\\packages\\microsoft.projectreunion\\0.5.0\\microsoft.projectreunion.0.5.0.nupkg.sha512",
+    "C:\\Users\\Charles\\.nuget\\packages\\microsoft.projectreunion.dwrite\\0.5.0\\microsoft.projectreunion.dwrite.0.5.0.nupkg.sha512",
+    "C:\\Users\\Charles\\.nuget\\packages\\microsoft.projectreunion.foundation\\0.5.0\\microsoft.projectreunion.foundation.0.5.0.nupkg.sha512",
+    "C:\\Users\\Charles\\.nuget\\packages\\microsoft.projectreunion.winui\\0.5.0\\microsoft.projectreunion.winui.0.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

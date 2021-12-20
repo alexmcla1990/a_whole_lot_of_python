@@ -1,0 +1,42 @@
+C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x64\Debug\App.xbf
+C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x64\Debug\MainWindow.xbf
+C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x64\Debug\EmployeeManager.WinUI\Microsoft.ApplicationModel.Resources.Projection.dll
+C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x64\Debug\EmployeeManager.WinUI\Microsoft.WinUI.dll
+C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x64\Debug\EmployeeManager.WinUI\Microsoft.Windows.SDK.NET.dll
+C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x64\Debug\EmployeeManager.WinUI\WinRT.Runtime.dll
+C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x64\Debug\EmployeeManager.WinUI\EmployeeManager.WinUI.deps.json
+C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x64\Debug\EmployeeManager.WinUI\EmployeeManager.WinUI.runtimeconfig.dev.json
+C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x64\Debug\EmployeeManager.WinUI\App.xbf
+C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x64\Debug\EmployeeManager.WinUI\MainWindow.xbf
+C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x64\Debug\EmployeeManager.WinUI\EmployeeManager.WinUI.exe
+C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x64\Debug\EmployeeManager.WinUI\Microsoft.ApplicationModel.Resources.Projection.pdb
+C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x64\Debug\EmployeeManager.WinUI\EmployeeManager.WinUI.runtimeconfig.json
+C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x64\Debug\EmployeeManager.WinUI\EmployeeManager.WinUI.dll
+C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x64\Debug\EmployeeManager.WinUI\EmployeeManager.WinUI.pdb
+C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x64\Debug\resources.pri
+C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x64\Debug\AppxManifest.xml
+C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x64\Debug\EmployeeManager.WinUI (Package).build.appxrecipe
+C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x64\Debug\EmployeeManager.WinUI (Package).wapproj.AssemblyReference.cache
+C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x64\Debug\EmployeeManager.WinUI (Package).wapproj.CoreCompileInputs.cache
+C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x64\Debug\EmployeeManager.WinUI.pri.xml
+C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x64\Debug\priconfig.xml
+C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x64\Debug\resources.resfiles
+C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x64\Debug\pri.resfiles
+C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x64\Debug\qualifiers.txt
+C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x64\Debug\EmployeeManager.WinUI (Package).wapproj.LastBuild.txt
+C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x64\Debug\Images\logo.png
+C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x64\Debug\EmployeeManager.WinUI\Images\logo.png
+C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x64\Debug\controls\HeaderControl.xbf
+C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x64\Debug\EmployeeManager.WinUI\controls\HeaderControl.xbf

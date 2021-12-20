@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-879DPQI</Machine>
+    <WindowsUser>Charles</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>11fca1a4-6e11-435e-b33c-410488e5e13b</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Charles</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI %28Package%29\obj\x64\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI %28Package%29\bin\x64\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>DA66C33FEEFE40AE486D59D19979481C9C15F139BEB086B116A270CA532218CC</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>11fca1a4-6e11-435e-b33c-410488e5e13b_1.0.0.0_x64__tzknp1fas5nm8</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>11fca1a4-6e11-435e-b33c-410488e5e13b_tzknp1fas5nm8!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>11fca1a4-6e11-435e-b33c-410488e5e13b</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Charles</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI %28Package%29\bin\x64\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-12-12T20:38:01.995</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI\bin\x64\Debug\net5.0-windows10.0.19041.0\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2021-12-12T20:38:00.460</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI\bin\x64\Debug\net5.0-windows10.0.19041.0\MainWindow.xbf">
+      <PackagePath>MainWindow.xbf</PackagePath>
+      <Modified>2021-12-12T20:38:00.460</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI\bin\x64\Debug\net5.0-windows10.0.19041.0\controls\HeaderControl.xbf">
+      <PackagePath>controls\HeaderControl.xbf</PackagePath>
+      <Modified>2021-12-12T20:38:00.460</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI\bin\x64\Debug\net5.0-windows10.0.19041.0\Images\logo.png">
+      <PackagePath>Images\logo.png</PackagePath>
+      <Modified>2021-01-18T21:21:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.19041.0\Redist\Debug\x64\ucrtbased.dll">
+      <PackagePath>ucrtbased.dll</PackagePath>
+      <Modified>2020-12-02T10:31:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI %28Package%29\Images\SplashScreen.scale-200.png">
+      <PackagePath>Images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-12-12T19:11:20.098</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI %28Package%29\Images\LockScreenLogo.scale-200.png">
+      <PackagePath>Images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2021-12-12T19:11:20.097</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI %28Package%29\Images\Square150x150Logo.scale-200.png">
+      <PackagePath>Images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-12-12T19:11:20.100</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI %28Package%29\Images\Square44x44Logo.scale-200.png">
+      <PackagePath>Images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-12-12T19:11:20.100</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI %28Package%29\Images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-12-12T19:11:20.101</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI %28Package%29\Images\StoreLogo.png">
+      <PackagePath>Images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-12-12T19:11:20.101</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI %28Package%29\Images\Wide310x150Logo.scale-200.png">
+      <PackagePath>Images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-12-12T19:11:20.104</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI %28Package%29\bin\x64\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2021-12-12T20:38:01.872</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Charles\.nuget\packages\microsoft.projectreunion.foundation\0.8.4\lib\net5.0-windows\Microsoft.ApplicationModel.Resources.Projection.dll">
+      <PackagePath>EmployeeManager.WinUI\Microsoft.ApplicationModel.Resources.Projection.dll</PackagePath>
+      <Modified>2021-09-14T17:46:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Charles\.nuget\packages\microsoft.projectreunion.winui\0.8.4\lib\net5.0-windows10.0.18362.0\Microsoft.WinUI.dll">
+      <PackagePath>EmployeeManager.WinUI\Microsoft.WinUI.dll</PackagePath>
+      <Modified>2021-09-14T17:46:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Charles\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.21\lib\Microsoft.Windows.SDK.NET.dll">
+      <PackagePath>EmployeeManager.WinUI\Microsoft.Windows.SDK.NET.dll</PackagePath>
+      <Modified>2021-09-16T03:42:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Charles\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.21\lib\WinRT.Runtime.dll">
+      <PackagePath>EmployeeManager.WinUI\WinRT.Runtime.dll</PackagePath>
+      <Modified>2021-09-16T03:42:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI\bin\x64\Debug\net5.0-windows10.0.19041.0\EmployeeManager.WinUI.deps.json">
+      <PackagePath>EmployeeManager.WinUI\EmployeeManager.WinUI.deps.json</PackagePath>
+      <Modified>2021-12-12T20:38:00.899</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI\bin\x64\Debug\net5.0-windows10.0.19041.0\EmployeeManager.WinUI.runtimeconfig.dev.json">
+      <PackagePath>EmployeeManager.WinUI\EmployeeManager.WinUI.runtimeconfig.dev.json</PackagePath>
+      <Modified>2021-12-12T19:44:57.343</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI\obj\x64\Debug\net5.0-windows10.0.19041.0\App.xbf">
+      <PackagePath>EmployeeManager.WinUI\App.xbf</PackagePath>
+      <Modified>2021-12-12T20:38:00.460</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI\obj\x64\Debug\net5.0-windows10.0.19041.0\controls\HeaderControl.xbf">
+      <PackagePath>EmployeeManager.WinUI\controls\HeaderControl.xbf</PackagePath>
+      <Modified>2021-12-12T20:38:00.460</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI\obj\x64\Debug\net5.0-windows10.0.19041.0\MainWindow.xbf">
+      <PackagePath>EmployeeManager.WinUI\MainWindow.xbf</PackagePath>
+      <Modified>2021-12-12T20:38:00.460</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI\Images\logo.png">
+      <PackagePath>EmployeeManager.WinUI\Images\logo.png</PackagePath>
+      <Modified>2021-01-18T21:21:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI\obj\x64\Debug\net5.0-windows10.0.19041.0\apphost.exe">
+      <PackagePath>EmployeeManager.WinUI\EmployeeManager.WinUI.exe</PackagePath>
+      <Modified>2021-12-12T20:38:00.645</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI\bin\x64\Debug\net5.0-windows10.0.19041.0\EmployeeManager.WinUI.runtimeconfig.json">
+      <PackagePath>EmployeeManager.WinUI\EmployeeManager.WinUI.runtimeconfig.json</PackagePath>
+      <Modified>2021-12-12T19:44:57.338</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI\bin\x64\Debug\net5.0-windows10.0.19041.0\EmployeeManager.WinUI.dll">
+      <PackagePath>EmployeeManager.WinUI\EmployeeManager.WinUI.dll</PackagePath>
+      <Modified>2021-12-12T20:38:00.565</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Users\Charles\.nuget\packages\microsoft.projectreunion\0.8.4\build\..\tools\MSIX\win10-x86\Microsoft.ProjectReunion.0.8.msix">
+      <Name>Microsoft.ProjectReunion.0.8</Name>
+      <Version>8004.256.1745.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.ProjectReunion.0.8, MinVersion = 8004.256.1745.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Charles\.nuget\packages\microsoft.projectreunion\0.8.4\build\..\tools\MSIX\win10-x86\Microsoft.ProjectReunion.0.8.msix</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Charles\.nuget\packages\microsoft.projectreunion\0.8.4\build\..\tools\MSIX\win10-x86\Microsoft.ProjectReunion.0.8.msix">
+      <Name>Microsoft.ProjectReunion.0.8</Name>
+      <Version>8004.256.1745.0</Version>
+      <Architecture>win32</Architecture>
+      <FrameworkIdentity>Name = Microsoft.ProjectReunion.0.8, MinVersion = 8004.256.1745.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Charles\.nuget\packages\microsoft.projectreunion\0.8.4\build\..\tools\MSIX\win10-x86\Microsoft.ProjectReunion.0.8.msix</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Charles\.nuget\packages\microsoft.projectreunion\0.8.4\build\..\tools\MSIX\win10-x64\Microsoft.ProjectReunion.0.8.msix">
+      <Name>Microsoft.ProjectReunion.0.8</Name>
+      <Version>8004.256.1745.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.ProjectReunion.0.8, MinVersion = 8004.256.1745.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Charles\.nuget\packages\microsoft.projectreunion\0.8.4\build\..\tools\MSIX\win10-x64\Microsoft.ProjectReunion.0.8.msix</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Charles\.nuget\packages\microsoft.projectreunion\0.8.4\build\..\tools\MSIX\win10-arm64\Microsoft.ProjectReunion.0.8.msix">
+      <Name>Microsoft.ProjectReunion.0.8</Name>
+      <Version>8004.256.1745.0</Version>
+      <Architecture>arm64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.ProjectReunion.0.8, MinVersion = 8004.256.1745.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Charles\.nuget\packages\microsoft.projectreunion\0.8.4\build\..\tools\MSIX\win10-arm64\Microsoft.ProjectReunion.0.8.msix</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug.UWPDesktop</Name>
+      <Version>14.0.30035.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug.UWPDesktop, MinVersion = 14.0.30035.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.Desktop.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug.UWPDesktop</Name>
+      <Version>14.0.30035.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug.UWPDesktop, MinVersion = 14.0.30035.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.Desktop.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug.UWPDesktop</Name>
+      <Version>14.0.30035.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug.UWPDesktop, MinVersion = 14.0.30035.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.Desktop.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug.UWPDesktop</Name>
+      <Version>14.0.30035.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug.UWPDesktop, MinVersion = 14.0.30035.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.Desktop.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30035.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30035.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30035.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30035.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30035.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30035.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30035.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30035.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

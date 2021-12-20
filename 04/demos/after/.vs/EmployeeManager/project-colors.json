@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0343fba5-709e-4301-a135-24336960103b": {
+      "ProjectGuid": "0343fba5-709e-4301-a135-24336960103b",
+      "DisplayName": "EmployeeManager.WinForms",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

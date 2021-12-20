@@ -1,0 +1,12 @@
+C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.Common\bin\Debug\net5.0\EmployeeManager.Common.deps.json
+C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.Common\bin\Debug\net5.0\EmployeeManager.Common.dll
+C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.Common\bin\Debug\net5.0\ref\EmployeeManager.Common.dll
+C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.Common\bin\Debug\net5.0\EmployeeManager.Common.pdb
+C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.Common\obj\Debug\net5.0\EmployeeManager.Common.csproj.AssemblyReference.cache
+C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.Common\obj\Debug\net5.0\EmployeeManager.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.Common\obj\Debug\net5.0\EmployeeManager.Common.AssemblyInfoInputs.cache
+C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.Common\obj\Debug\net5.0\EmployeeManager.Common.AssemblyInfo.cs
+C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.Common\obj\Debug\net5.0\EmployeeManager.Common.csproj.CoreCompileInputs.cache
+C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.Common\obj\Debug\net5.0\EmployeeManager.Common.dll
+C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.Common\obj\Debug\net5.0\ref\EmployeeManager.Common.dll
+C:\Users\Charles\Desktop\PHP\03\demos\before\EmployeeManager.Common\obj\Debug\net5.0\EmployeeManager.Common.pdb

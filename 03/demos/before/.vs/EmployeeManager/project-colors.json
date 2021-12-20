@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e8bec6ff-4459-4a97-9717-239dbb13a1e4": {
+      "ProjectGuid": "e8bec6ff-4459-4a97-9717-239dbb13a1e4",
+      "DisplayName": "EmployeeManager.WinUI (Package)",
+      "ColorIndex": 0
+    },
+    "c8511789-fcb6-48b0-a336-a8721fb0fa83": {
+      "ProjectGuid": "c8511789-fcb6-48b0-a336-a8721fb0fa83",
+      "DisplayName": "EmployeeManager.WinUI",
+      "ColorIndex": 1
+    },
+    "6e59035b-7552-4e80-ae07-e395086546bf": {
+      "ProjectGuid": "6e59035b-7552-4e80-ae07-e395086546bf",
+      "DisplayName": "EmployeeManager.ViewModel",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

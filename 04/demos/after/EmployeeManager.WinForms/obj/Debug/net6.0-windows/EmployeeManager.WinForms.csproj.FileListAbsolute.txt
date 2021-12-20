@@ -1,0 +1,17 @@
+C:\Users\Charles\Desktop\PHP\04\demos\after\EmployeeManager.WinForms\bin\Debug\net6.0-windows\EmployeeManager.WinForms.exe
+C:\Users\Charles\Desktop\PHP\04\demos\after\EmployeeManager.WinForms\bin\Debug\net6.0-windows\EmployeeManager.WinForms.deps.json
+C:\Users\Charles\Desktop\PHP\04\demos\after\EmployeeManager.WinForms\bin\Debug\net6.0-windows\EmployeeManager.WinForms.runtimeconfig.json
+C:\Users\Charles\Desktop\PHP\04\demos\after\EmployeeManager.WinForms\bin\Debug\net6.0-windows\EmployeeManager.WinForms.dll
+C:\Users\Charles\Desktop\PHP\04\demos\after\EmployeeManager.WinForms\bin\Debug\net6.0-windows\ref\EmployeeManager.WinForms.dll
+C:\Users\Charles\Desktop\PHP\04\demos\after\EmployeeManager.WinForms\bin\Debug\net6.0-windows\EmployeeManager.WinForms.pdb
+C:\Users\Charles\Desktop\PHP\04\demos\after\EmployeeManager.WinForms\obj\Debug\net6.0-windows\EmployeeManager.WinForms.csproj.AssemblyReference.cache
+C:\Users\Charles\Desktop\PHP\04\demos\after\EmployeeManager.WinForms\obj\Debug\net6.0-windows\EmployeeManager.WinForms.MainForm.resources
+C:\Users\Charles\Desktop\PHP\04\demos\after\EmployeeManager.WinForms\obj\Debug\net6.0-windows\EmployeeManager.WinForms.csproj.GenerateResource.cache
+C:\Users\Charles\Desktop\PHP\04\demos\after\EmployeeManager.WinForms\obj\Debug\net6.0-windows\EmployeeManager.WinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Charles\Desktop\PHP\04\demos\after\EmployeeManager.WinForms\obj\Debug\net6.0-windows\EmployeeManager.WinForms.AssemblyInfoInputs.cache
+C:\Users\Charles\Desktop\PHP\04\demos\after\EmployeeManager.WinForms\obj\Debug\net6.0-windows\EmployeeManager.WinForms.AssemblyInfo.cs
+C:\Users\Charles\Desktop\PHP\04\demos\after\EmployeeManager.WinForms\obj\Debug\net6.0-windows\EmployeeManager.WinForms.csproj.CoreCompileInputs.cache
+C:\Users\Charles\Desktop\PHP\04\demos\after\EmployeeManager.WinForms\obj\Debug\net6.0-windows\EmployeeManager.WinForms.dll
+C:\Users\Charles\Desktop\PHP\04\demos\after\EmployeeManager.WinForms\obj\Debug\net6.0-windows\ref\EmployeeManager.WinForms.dll
+C:\Users\Charles\Desktop\PHP\04\demos\after\EmployeeManager.WinForms\obj\Debug\net6.0-windows\EmployeeManager.WinForms.pdb
+C:\Users\Charles\Desktop\PHP\04\demos\after\EmployeeManager.WinForms\obj\Debug\net6.0-windows\EmployeeManager.WinForms.genruntimeconfig.cache
